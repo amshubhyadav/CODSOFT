@@ -18,7 +18,7 @@ Welcome to my Data Science Internship Program repository! Here, you'll find the 
 🔍 Here are some of the projects I've worked on during the internship:
 1. Iris Flower Classification.
 2. Titanic Survival Prediction.
-3. Sales Prediction Using Python.
+3. Credit Card Fraud Detection.
 
 Each project folder contains the relevant code, data, and documentation to help you understand the problem, approach, and solution.
 
